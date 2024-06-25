@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/PiklemaTest/Style">
+        <file>qmldir</file>
+        <file>TextField.qml</file>
+        <file>Style.qml</file>
+        <file>Label.qml</file>
+        <file>Button.qml</file>
+    </qresource>
+</RCC>

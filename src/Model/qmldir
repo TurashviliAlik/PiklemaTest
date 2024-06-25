@@ -1,0 +1,3 @@
+module PiklemaTest.Model
+plugin piklematestmodelplugin
+typeinfo plugins.qmltypes

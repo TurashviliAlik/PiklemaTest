@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/PiklemaTest">
+        <file>MainPage.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

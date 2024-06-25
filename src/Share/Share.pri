@@ -1,0 +1,5 @@
+HEADERS += \
+    $$PWD/IModule.h
+
+INCLUDEPATH += $$PWD
+DEPENDPATH += $$PWD
